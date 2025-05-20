@@ -33,7 +33,7 @@ Jarvis is a voice-command-based bot designed to assist with various tasks using 
 
 Before running the code, ensure you have the following libraries installed:
 
-1. **Python 3.x**
+1. **Python **
 2. Required Libraries:
 
    * `pyttsx3`: Text-to-speech conversion.
@@ -79,18 +79,6 @@ pip install pyttsx3 SpeechRecognition pyaudio pywhatkit
    ```bash
    python jarvis.py
    ```
-4. Interact with Jarvis using voice commands.
-
----
-
-## Example Interaction
-
-1. Jarvis: "Hello master Tanmay, today is 20 May 2025. Listening for command..."
-2. User: "Search on Google"
-3. Jarvis: "Got it sir, what do you want to search?"
-4. User: "Python tutorials"
-5. Jarvis: (Opens a browser with the search results for "Python tutorials")
-
 ---
 
 ## Future Enhancements
