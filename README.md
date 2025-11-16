@@ -52,7 +52,7 @@ pip install pyttsx3 SpeechRecognition pyaudio pywhatkit
 ## How It Works
 
 1. Jarvis starts with a greeting selected randomly from a predefined list.
-2. It listens for user commands through the microphone.
+2. It listens for user commands through the microphone. (stops when terminated/put to sleep)
 3. Based on the recognized command, Jarvis performs the appropriate action.
 4. The system responds with text-to-speech output for better interactivity.
 
